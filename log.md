@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started building Portfolio page on FreeCodeamp.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Not much progress at all. Since I am a beginner, and also had 3 weeks gap from learning to code just before the New Year, so was really strugling to start. But managed to write a few lines of code, which I'm pretty sure will have to be changed later on. But at least that's a start I suppose
+
+**Link to work:** http://codepen.io/Laurynasxl/pen/ZLEaKz
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

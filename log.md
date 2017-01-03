@@ -5,7 +5,7 @@
 
 **Today's Progress**: Started building Portfolio page on FreeCodeamp.
 
-**Thoughts:** Not much progress at all. Since I am a beginner, and also had 3 weeks gap from learning to code just before the New Year, so was really strugling to start. But managed to write a few lines of code, which I'm pretty sure will have to be changed later on. But at least that's a start I suppose
+**Thoughts:** Not much progress at all. Since I am a beginner, and also had 3 weeks gap from learning to code just before the New Year, so was really strugling to start. But managed to write a few lines of code, which seems wrong, and I'm pretty sure will have to be changed later on. But at least that's a start I suppose
 
 **Link to work:** http://codepen.io/Laurynasxl/pen/ZLEaKz
 

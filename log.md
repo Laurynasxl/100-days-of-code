@@ -18,12 +18,11 @@
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
 
-### Day 1: June 27, Monday
+### Day 3: January 5, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finaly mannaged to align the navbar text.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Little progress better then no progress at all
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+

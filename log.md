@@ -26,3 +26,11 @@
 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 4: January 6, 2017
+
+**Today's Progress**: Played with text and hr
+
+**Thoughts** Slowly, but forward
+
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+

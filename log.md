@@ -34,3 +34,11 @@
 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 5: January 7, 2017
+
+**Today's Progress**: Image and background
+
+**Thoughts** Code only works half way, but I changed it so many times, that no longer understand it
+
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+

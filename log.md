@@ -42,3 +42,9 @@
 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 6: January 8, 2017
+
+**Today's Progress**: hr and divs 
+
+**Thoughts** Found out what was doing wrong in some lines. Need to learn github better. As I realy keep posting the same link, so can't track the progress just the last days result
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ

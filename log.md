@@ -48,3 +48,11 @@
 
 **Thoughts** Found out what was doing wrong in some lines. Need to learn github better. As I realy keep posting the same link, so can't track the progress just the last days result
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: Bootstrap image thumbnails
+
+**Thoughts** Comparing to where I ws a week ago, Im actualy proud of my progress
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+

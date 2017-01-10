@@ -56,3 +56,9 @@
 **Thoughts** Comparing to where I ws a week ago, Im actualy proud of my progress
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 8: January 10, 2017
+
+**Today's Progress**: Contact form
+
+**Thoughts** Not much progress today
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ

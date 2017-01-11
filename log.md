@@ -62,3 +62,11 @@
 
 **Thoughts** Not much progress today
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Social media buttons
+
+**Thoughts** Slowly but moving forward
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+

@@ -70,3 +70,10 @@
 **Thoughts** Slowly but moving forward
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 10: January 12, 2017
+
+**Today's Progress**: Getting lost between divs
+
+**Thoughts** Annoyed
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+

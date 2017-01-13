@@ -77,3 +77,12 @@
 **Thoughts** Annoyed
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 11: January 13, 2017
+
+**Today's Progress**: sorted out the divs
+
+**Thoughts** No idea how though
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+
+
+

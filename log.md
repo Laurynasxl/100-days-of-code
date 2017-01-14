@@ -84,5 +84,12 @@
 **Thoughts** No idea how though
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 12: January 13, 2017
+
+**Today's Progress**: sorting out the divs
+
+**Thoughts** Nope. I did not fully sort out the divs yeasterday
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
+
 
 

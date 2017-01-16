@@ -98,4 +98,12 @@
 **Thoughts** So after approximately 17hrs of coding I finaly managed to complete my portfolio projects. I know a lot of things are still incorrect there, but at the moment I have streched my skills to the limits and spending any more time on this would be waste of time. I will have to go back to this project once I get more knowledge and experience and either fix it or re-build from the scratch. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
+### Day 14: January 14, 2017
+
+**Today's Progress**: New project: reverse engineering BBC website in HTML & CSS
+
+**Thoughts** Need to improve my HTML and CSS skills. 
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
+
+
 

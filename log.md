@@ -105,5 +105,12 @@
 **Thoughts** Need to improve my HTML and CSS skills. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
+### Day 15: January 14, 2017
+
+**Today's Progress**: Playing with the header
+
+**Thoughts** Need to improve my HTML and CSS skills. 
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
+
 
 

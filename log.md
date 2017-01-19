@@ -119,3 +119,10 @@
 **Thoughts** Need to improve my HTML and CSS skills. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
+### Day 17: January 14, 2017
+
+**Today's Progress**: Figuring out responsive CSS
+
+**Thoughts** Need to improve my HTML and CSS skills. 
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
+

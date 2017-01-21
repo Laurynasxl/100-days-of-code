@@ -84,52 +84,58 @@
 **Thoughts** No idea how though
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
-### Day 12: January 13, 2017
+### Day 12: January 14, 2017
 
 **Today's Progress**: sorting out the divs
 
 **Thoughts** Nope. I did not fully sort out the divs yeasterday
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
-### Day 13: January 14, 2017
+### Day 13: January 15, 2017
 
 **Today's Progress**: Profile page completed
 
 **Thoughts** So after approximately 17hrs of coding I finaly managed to complete my portfolio projects. I know a lot of things are still incorrect there, but at the moment I have streched my skills to the limits and spending any more time on this would be waste of time. I will have to go back to this project once I get more knowledge and experience and either fix it or re-build from the scratch. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/OWJzvJ
 
-### Day 14: January 14, 2017
+### Day 14: January 16, 2017
 
 **Today's Progress**: New project: reverse engineering BBC website in HTML & CSS
 
 **Thoughts** Need to improve my HTML and CSS skills. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
-### Day 15: January 14, 2017
+### Day 15: January 17, 2017
 
 **Today's Progress**: Playing with the header
 
 **Thoughts** Need to improve my HTML and CSS skills. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
-### Day 16: January 14, 2017
+### Day 16: January 18, 2017
 
 **Today's Progress**: Figuring out responsive CSS
 
 **Thoughts** Need to improve my HTML and CSS skills. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
-### Day 17: January 14, 2017
+### Day 17: January 19, 2017
 
 **Today's Progress**: Figuring out responsive CSS
 
 **Thoughts** Need to improve my HTML and CSS skills. 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
-### Day 18: January 14, 2017
+### Day 18: January 20, 2017
 
 **Today's Progress**: Figuring out responsive CSS
 
 **Thoughts** Learning how to replace bullet ponts with separate images for each point, and learning navbars 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
 
+### Day 19: January 21, 2017
+
+**Today's Progress**: Figuring out responsive CSS
+
+**Thoughts** Learning how to replace bullet ponts with separate images for each point, and learning navbars 
+**Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd

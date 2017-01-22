@@ -139,3 +139,10 @@
 
 **Thoughts** Learning how to replace bullet ponts with separate images for each point, and learning navbars 
 **Link(s) to work**: http://codepen.io/Laurynasxl/pen/RKGdOd
+
+### Day  20 : January 2č, 2017
+
+**Today's Progress**: Figuring out GIT and GITHUB
+
+**Thoughts** Somehow managed to get my hands on HTML & CSS part of real life project, so need to learn how to use GIT 
+**Link(s) to work**: 

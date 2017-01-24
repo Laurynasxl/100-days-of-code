@@ -154,3 +154,10 @@
 **Thoughts** Still learning to use GIT VSC and some HTML and CSS
 **Link(s) to work**: 
 
+### Day  22 : January 24, 2017
+
+**Today's Progress**: Bootstrap menu
+
+**Thoughts** Working on menu with log in form
+**Link(s) to work**: 
+

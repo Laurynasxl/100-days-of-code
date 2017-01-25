@@ -161,3 +161,10 @@
 **Thoughts** Working on menu with log in form
 **Link(s) to work**: 
 
+### Day  23 : January 25, 2017
+
+**Today's Progress**: CSS responsive menu
+
+**Thoughts** very tired today
+**Link(s) to work**: 
+
